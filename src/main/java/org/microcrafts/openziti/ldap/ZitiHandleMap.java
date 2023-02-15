@@ -1,4 +1,4 @@
-package org.microcrafts.openzitildap;
+package org.microcrafts.openziti.ldap;
 
 import org.ldaptive.LdapException;
 import org.ldaptive.ResultCode;

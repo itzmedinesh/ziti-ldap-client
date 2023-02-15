@@ -1,4 +1,4 @@
-package org.microcrafts.openzitildap;
+package org.microcrafts.openziti.ldap;
 
 /**
  * Class that encapsulates parameters required to access ldap in ziti network
