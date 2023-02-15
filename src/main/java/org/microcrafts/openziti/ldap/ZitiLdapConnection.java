@@ -1,4 +1,4 @@
-package org.microcrafts.openzitildap;
+package org.microcrafts.openziti.ldap;
 
 import io.netty.channel.DefaultEventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
