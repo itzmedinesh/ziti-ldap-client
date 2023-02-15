@@ -6,10 +6,31 @@
 
   <groupId>org.microcrafts</groupId>
   <artifactId>ziti-ldap-client</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>ziti-ldap-client</name>
-  <url>https://github.com/itzmedinesh/ziti-ldap-client</url>
+  <description>LDAP client to connect and operate on directory servers protected by a ziti network</description>
+  <url>https://github.com/itzmedinesh/ziti-ldap-client.git</url>
+  <inceptionYear>2022</inceptionYear>
+  <scm>
+    <url>https://github.com/itzmedinesh/ziti-ldap-client</url>
+    <connection>scm:git:git://github.com/itzmedinesh/ziti-ldap-client.git</connection>
+    <developerConnection>scm:git:git@github.com:itzmedinesh/ziti-ldap-client.git</developerConnection>
+  </scm>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>itzmedinesh</id>
+      <name>Dinesh Subramanian</name>
+      <email>itzmedinesh@gmail.com</email>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
